@@ -47,7 +47,7 @@ a:active {
 <script type="text/javascript" src="includes/wz_jsgraphics.js"></script>
 </head>
 <body>
-<div style="position:absolute;left:50%;margin-left:-306px;top:0px;width:612px;height:792px;border-style:outset;overflow:hidden">
+<div style="position:absolute;top:0px;width:100%;height:100%;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
 <img src="includes/background1.jpg" width=612 height=792></div>
 <div style="position:absolute;left:21.60px;top:41.37px" class="cls_003"><span class="cls_003">Contact</span></div>
@@ -103,7 +103,7 @@ a:active {
 <div style="position:absolute;left:223.56px;top:711.21px" class="cls_005"><span class="cls_005">testing, Agile</span></div>
 <div style="position:absolute;left:383.98px;top:769.14px" class="cls_011"><span class="cls_011">Page 1 of 3</span></div>
 </div>
-<div style="position:absolute;left:50%;margin-left:-306px;top:802px;width:612px;height:792px;border-style:outset;overflow:hidden">
+<div style="position:absolute;top:802px;width:100%;height:100%;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
 <img src="includes/background2.jpg" width=612 height=792></div>
 <div style="position:absolute;left:223.56px;top:43.31px" class="cls_005"><span class="cls_005">Domain Expertise include Security & interdiction, credit & fraud,</span></div>
@@ -138,7 +138,7 @@ a:active {
 <div style="position:absolute;left:223.56px;top:703.28px" class="cls_014"><span class="cls_014">Hyderabad Area, India</span></div>
 <div style="position:absolute;left:383.98px;top:769.14px" class="cls_011"><span class="cls_011">Page 2 of 3</span></div>
 </div>
-<div style="position:absolute;left:50%;margin-left:-306px;top:1604px;width:612px;height:792px;border-style:outset;overflow:hidden">
+<div style="position:absolute;top:1604px;width:100%;height:100%;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
 <img src="includes/background3.jpg" width=612 height=792></div>
 <div style="position:absolute;left:223.56px;top:40.99px" class="cls_008"><span class="cls_008">Education</span></div>
